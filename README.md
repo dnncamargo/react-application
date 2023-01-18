@@ -8,9 +8,9 @@ Instale o Node.js em <br>
 https://nodejs.org/en/ <br><br>
 
 Verifique se a instalação foi bem concluída<br>
-    ``node -v``
-
-Instale dependências e ative o servidor local
-``cd react-application`` <br>
+``node -v``
+<br>
+Instale dependências e ative o servidor local<br>
+``cd react-application``<br>
 ``npm install`` <br>
 ``npm start``
