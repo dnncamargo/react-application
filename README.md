@@ -8,10 +8,7 @@ Instale o Node.js em <br>
 https://nodejs.org/en/ <br><br>
 
 Verifique se a instalação foi bem concluída
-<p font-family=monospace>
-    node -v
-</p>
-
+    ``node -v``
 
 cd react-application <br>
 npm install <br>
