@@ -1,5 +1,5 @@
 # react-application
-Aplicação simples front-end em React sobre componentes
+Aplicação simples front-end em React sobre componentes<br>
 
 <p align="center">
     <img width="300" src="https://nodejs.org/static/images/logo.svg">
